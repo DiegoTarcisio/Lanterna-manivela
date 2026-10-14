@@ -12,7 +12,7 @@
 
 <!-- Badges de status do repositório -->
 <p align="center">
-  <img alt="Repo Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge&logo=git&logoColor=white&color=238636"/>
+  <img alt="Repo Status" src="https://img.shields.io/badge/Status-%20Finalizado-success?style=for-the-badge&logo=git&logoColor=white&color=238636"/>
   <img alt="Licença" src="https://img.shields.io/badge/Licen%C3%A7a-UFOP-blue?style=for-the-badge"/>
   <img alt="Energia" src="https://img.shields.io/badge/Energia-Cin%C3%A9tica%20%2F%20Limpa-F7DF1E?style=for-the-badge&logoColor=black"/>
   <img alt="Fabricação" src="https://img.shields.io/badge/Fabrica%C3%A7%C3%A3o-Impress%C3%A3o%203D-00599C?style=for-the-badge"/>
@@ -28,7 +28,7 @@
     Este projeto consiste no desenvolvimento e fabricação de uma <b>Lanterna de Manivela Autossustentável</b>, capaz de gerar iluminação através da conversão de energia mecânica manual (cinética) em energia elétrica, aplicando a <i>Lei da Indução Eletromagnética de Faraday</i>.
   </p>
   <p align="justify">
-    O sistema baseia-se no conceito de <b>Upcycling</b> (reaproveitamento tecnológico), utilizando o motor síncrono com caixa de redução interna retirado do prato de um forno micro-ondas descartado. Ao girar a manivela, o conjunto de engrenagens multiplica a rotação do rotor com ímãs permanentes, gerando tensão alternada (AC) suficiente para acender LEDs de alto brilho após a devida retificação e filtragem.
+    O sistema baseia-se no conceito de <b>Upcycling</b> (reaproveitamento tecnológico), utilizando o motor síncrono com caixa de redução interna retirado do prato de um forno micro-ondas descartado. Ao girar a manivela, o conjunto de engrenagens multiplica a rotação do rotor com ímãs permanentes, gerando tensão alternada (AC) suficiente para acender uma lampada de 15W
   </p>
 
   <h3>🎯 Principais Destaques</h3>
@@ -36,7 +36,6 @@
     <li><b>Independência Energética:</b> Funciona em qualquer situação de emergência sem depender de pilhas ou tomadas.</li>
     <li><b>Sustentabilidade & Economia Circular:</b> Reaproveitamento de componentes eletroeletrônicos que iriam para o lixo.</li>
     <li><b>Estrutura Ergonômica 3D:</b> Chassi compacto, manivela anatômica e encaixes projetados para impressão 3D (PLA/PETG).</li>
-    <li><b>Circuito de Retificação Eficiente:</b> Ponte retificadora de onda completa com capacitor para estabilização de luz.</li>
   </ul>
 </details>
 
@@ -101,14 +100,14 @@
   <h3>⚡ Eletrônica & Geração</h3>
   <p>
     <a href="#"><img alt="Indução Eletromagnética" src="https://img.shields.io/badge/Princípio-Indu%C3%A7%C3%A3o%20Eletromagn%C3%A9tica-FF6F00?style=for-the-badge"></a>
-    <a href="#"><img alt="Ponte Retificadora" src="https://img.shields.io/badge/Circuito-Ponte%20Retificadora-blue?style=for-the-badge"></a>
-    <a href="#"><img alt="LEDs Alto Brilho" src="https://img.shields.io/badge/Ilumina%C3%A7%C3%A3o-LED%20Alto%20Brilho-brightgreen?style=for-the-badge"></a>
+    <a href="#"><img alt="Circuitos" src="https://img.shields.io/badge/Circuito-Simples%20Eficaz-blue?style=for-the-badge"></a>
+    <a href="#"><img alt="Lampada com Alto Brilho" src="https://img.shields.io/badge/Ilumina%C3%A7%C3%A3o-Lampada%20Alto%20Brilho-brightgreen?style=for-the-badge"></a>
   </p>
 
   <h3>📐 CAD, Modelagem & Fabricação 3D</h3>
   <p>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51000?style=for-the-badge&logo=autodesk&logoColor=white"></a>
-    <a href="#"><img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
+    <a href="#"><img alt="Solid Works" src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
     <a href="#"><img alt="Impressão 3D" src="https://img.shields.io/badge/Impressão%203D-FDM%20(PLA%2FPETG)-00599C?style=for-the-badge"></a>
   </p>
 
@@ -129,12 +128,9 @@
   | Item | Componente | Quantidade | Função no Projeto |
   | :--: | :--------- | :--------: | :---------------- |
   | 1 | Motor Síncrono de Prato de Micro-ondas | 1 | Gerador elétrico acionado manualmente via engrenagens internas |
-  | 2 | Ponte de Diodos Retificadora (ex: 4x 1N4007 ou MB6S) | 1 | Converte a tensão gerada de Corrente Alternada (AC) para Contínua (DC) |
-  | 3 | Capacitor Eletrolítico (ex: 100µF a 470µF / 25V) | 1 a 2 | Filtra e suaviza a tensão contínua, evitando oscilações no feixe de luz |
-  | 4 | Resistor Limitador de Corrente (ex: 100Ω a 330Ω) | 1 | Protege os diodos emissores de luz contra sobretensão |
-  | 5 | LEDs Brancos de Alto Brilho (5mm ou módulo COB) | 1 a 3 | Fonte emissora de iluminação frontal |
-  | 6 | Estrutura e Manivela Impressas em 3D | 1 kit | Carcaça ergonômica, suporte do motor e alavanca de rotação |
-  | 7 | Parafusos e Porcas M3 / M4 | 1 kit | Fixação mecânica do motor e fechamento da carcaça |
+  | 2 | Lampada e Bocal | 1 par | Utilizacao da energia em brilho | 
+  | 3 | Estrutura e Manivela Impressas em 3D | 1 kit | Carcaça ergonômica, suporte do motor e alavanca de rotação |
+  | 4 | Parafusos M3 | 1 kit | Fixação mecânica do motor e fechamento da carcaça |
 </details>
 
 <br/>
@@ -160,10 +156,4 @@
   [ Motor Síncrono (Gerador AC) ] ──────────> Tensão Alternada (induzida nas bobinas)
          │
          ▼
-  [ Ponte Retificadora de Diodos ] ─────────> Converte AC para Corrente Contínua (DC)
-         │
-         ▼
-  [ Capacitor de Filtro ] ──────────────────> Armazena carga e suaviza o riple
-         │
-         ▼
-  [ Resistor de Proteção + LEDs ] ──────────> Emissão de Luz Contínua e Estável
+  [ Bocal + Lampadas ] ──────────> Emissão de Luz Contínua e Estável
