@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Substitua pelo link de um banner do seu projeto ou foto da garra -->
-  <img src="https://via.placeholder.com/1000x320/1F222E/F85D7F?text=GARRA+ROB%C3%93TICA+-+ROBOTIC+ARM" alt="Banner Garra Robótica" width="100%"/>
+  <img src="https://via.placeholder.com/1000x320/1F222E/F85D7F?text=Lanterna+Manivela" alt="Banner Garra Robótica" width="100%"/>
 </p>
 
 <p align="center">
