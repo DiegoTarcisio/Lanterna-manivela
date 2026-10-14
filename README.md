@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Efeito de digitação dinâmico (Typing SVG) adaptado para Robótica -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Lanterna+Manivela;Controle+de+Servomotores;Modelagem+3D+%26+Arduino;Projeto+de+Engenharia+%26+Automa%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=500&height=45&color=F85D7F&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Controle+de+Servomotores;Modelagem+3D+%26+Arduino;Projeto+de+Engenharia+%26+Automa%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=500&height=45&color=F85D7F&vCenter=true&pause=700&size=20" alt="Typing SVG" />
   </a>
 </p>
 
