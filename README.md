@@ -1,68 +1,169 @@
-# 🔦 Lanterna de Manivela
+<p align="center">
+  <!-- Substitua pelo caminho da foto real da sua lanterna ou banner -->
+  <img src="https://via.placeholder.com/1000x320/1F222E/F85D7F?text=LANTERNA+DE+MANIVELA+-+ENERGIA+CIN%C3%89TICA" alt="Banner Lanterna de Manivela" width="100%"/>
+</p>
 
-**Transformando energia mecânica em energia elétrica.**
+<p align="center">
+  <!-- Efeito de digitação dinâmico (Typing SVG) adaptado para o projeto -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lanterna+de+Manivela+Sustent%C3%A1vel;Gera%C3%A7%C3%A3o+Cin%C3%A9tica+de+Energia;Motor+de+Micro-ondas+%2B+Impress%C3%A3o+3D;Projeto+de+Engenharia+UFOP&font=Fira%20Code&center=true&width=520&height=45&color=F85D7F&vCenter=true&pause=800&size=20" alt="Typing SVG" />
+  </a>
+</p>
 
-## 🔦 Sobre o Projeto
+<!-- Badges de status do repositório -->
+<p align="center">
+  <img alt="Repo Status" src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge&logo=git&logoColor=white&color=238636"/>
+  <img alt="Licença" src="https://img.shields.io/badge/Licen%C3%A7a-UFOP-blue?style=for-the-badge"/>
+  <img alt="Energia" src="https://img.shields.io/badge/Energia-Cin%C3%A9tica%20%2F%20Limpa-F7DF1E?style=for-the-badge&logoColor=black"/>
+  <img alt="Fabricação" src="https://img.shields.io/badge/Fabrica%C3%A7%C3%A3o-Impress%C3%A3o%203D-00599C?style=for-the-badge"/>
+</p>
 
-A **Lanterna de Manivela** é um protótipo didático desenvolvido para demonstrar, de forma prática e interativa, o processo de conversão de energia mecânica em energia elétrica.
+<br/>
 
-O projeto utiliza um **motor reaproveitado de um micro-ondas**, empregado como gerador elétrico. Ao girar manualmente uma manivela acoplada ao sistema, o usuário fornece energia mecânica, que é convertida em energia elétrica para alimentar uma lâmpada.
+<!-- ==================== SOBRE O PROJETO ==================== -->
+<details open>
+  <summary><b>💡 Sobre o Projeto</b></summary><br/>
+  
+  <p align="justify">
+    Este projeto consiste no desenvolvimento e fabricação de uma <b>Lanterna de Manivela Autossustentável</b>, capaz de gerar iluminação através da conversão de energia mecânica manual (cinética) em energia elétrica, aplicando a <i>Lei da Indução Eletromagnética de Faraday</i>.
+  </p>
+  <p align="justify">
+    O sistema baseia-se no conceito de <b>Upcycling</b> (reaproveitamento tecnológico), utilizando o motor síncrono com caixa de redução interna retirado do prato de um forno micro-ondas descartado. Ao girar a manivela, o conjunto de engrenagens multiplica a rotação do rotor com ímãs permanentes, gerando tensão alternada (AC) suficiente para acender LEDs de alto brilho após a devida retificação e filtragem.
+  </p>
 
-A estrutura do protótipo foi construída com peças impressas em 3D, integrando conhecimentos de Engenharia Elétrica, eletromagnetismo, máquinas elétricas e fabricação digital.
+  <h3>🎯 Principais Destaques</h3>
+  <ul>
+    <li><b>Independência Energética:</b> Funciona em qualquer situação de emergência sem depender de pilhas ou tomadas.</li>
+    <li><b>Sustentabilidade & Economia Circular:</b> Reaproveitamento de componentes eletroeletrônicos que iriam para o lixo.</li>
+    <li><b>Estrutura Ergonômica 3D:</b> Chassi compacto, manivela anatômica e encaixes projetados para impressão 3D (PLA/PETG).</li>
+    <li><b>Circuito de Retificação Eficiente:</b> Ponte retificadora de onda completa com capacitor para estabilização de luz.</li>
+  </ul>
+</details>
 
-### 🎯 Principais características
+<br/>
 
-- **Geração manual de energia:** utilização de uma manivela para movimentar o gerador.
-- **Indução eletromagnética:** demonstração prática da conversão de energia mecânica em elétrica.
-- **Reaproveitamento de componentes:** utilização de um motor retirado de um micro-ondas.
-- **Estrutura impressa em 3D:** desenvolvimento de suporte e caixa para os componentes.
-- **Aplicação educativa:** demonstração dos princípios de geração de energia elétrica em atividades de divulgação científica.
+<!-- ==================== INTEGRANTES ==================== -->
+<details open> 
+  <summary><b>👥 Integrantes do Projeto</b></summary><br/>
+  
+  <p align="center">
+    Equipe responsável pelo desenvolvimento de hardware, modelagem mecânica e documentação do projeto:
+  </p>
 
-## ⚡ Princípio de Funcionamento
+  <table align="center">
+    <tr>
+      <td align="center" width="220px">
+        <!-- Diego Tarcisio -->
+        <a href="https://github.com/DiegoTarcisio">
+          <img src="https://github.com/DiegoTarcisio.png" width="110px;" alt="Foto Diego" style="border-radius:50%;"/><br>
+          <sub><b>Diego T.</b></sub>
+        </a>
+        <br/>
+        <sub>⚡ Líder de Projeto</sub>
+        <br/>
+        <a href="https://github.com/DiegoTarcisio"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/diego-tarcisio"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      </td>
+      <td align="center" width="220px">
+        <!-- Elian Jair -->
+        <a href="https://github.com/ElianJair">
+          <img src="https://github.com/ElianJair.png" width="110px;" alt="Foto Elian" style="border-radius:50%;"/><br>
+          <sub><b>Elian J.</b></sub>
+        </a>
+        <br/>
+        <sub>💻 Colíder de Projeto</sub>
+        <br/>
+        <a href="https://github.com/ElianJair"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      </td>
+      <td align="center" width="220px">
+        <!-- Thainan Theodoro -->
+        <a href="https://github.com/ThainanST">
+          <img src="https://github.com/ThainanST.png" width="110px;" alt="Foto Thainan" style="border-radius:50%;"/><br>
+          <sub><b>Thainan ST</b></sub>
+        </a>
+        <br/>
+        <sub>🧠 Orientador</sub>
+        <br/>
+        <a href="https://github.com/ThainanST"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/thainantheodoro"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+      </td>
+    </tr>
+  </table>
+</details>
 
-O funcionamento da lanterna é baseado no princípio da indução eletromagnética.
+<br/>
 
-Quando a manivela é girada, o movimento é transferido para o eixo do motor utilizado como gerador. Esse movimento possibilita a geração de uma tensão elétrica, que pode alimentar a lâmpada conectada ao circuito.
+<!-- ==================== TECNOLOGIAS ==================== -->
+<details open> 
+  <summary><b>🛠️ Tecnologias e Ferramentas</b></summary><br/>
 
-O processo envolve quatro etapas:
+  <h3>⚡ Eletrônica & Geração</h3>
+  <p>
+    <a href="#"><img alt="Indução Eletromagnética" src="https://img.shields.io/badge/Princípio-Indu%C3%A7%C3%A3o%20Eletromagn%C3%A9tica-FF6F00?style=for-the-badge"></a>
+    <a href="#"><img alt="Ponte Retificadora" src="https://img.shields.io/badge/Circuito-Ponte%20Retificadora-blue?style=for-the-badge"></a>
+    <a href="#"><img alt="LEDs Alto Brilho" src="https://img.shields.io/badge/Ilumina%C3%A7%C3%A3o-LED%20Alto%20Brilho-brightgreen?style=for-the-badge"></a>
+  </p>
 
-1. Aplicação de energia mecânica na manivela.
-2. Movimentação do eixo do gerador.
-3. Conversão de energia mecânica em energia elétrica.
-4. Conversão da energia elétrica em luz pela lâmpada.
+  <h3>📐 CAD, Modelagem & Fabricação 3D</h3>
+  <p>
+    <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51000?style=for-the-badge&logo=autodesk&logoColor=white"></a>
+    <a href="#"><img alt="Fusion 360" src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
+    <a href="#"><img alt="Impressão 3D" src="https://img.shields.io/badge/Impressão%203D-FDM%20(PLA%2FPETG)-00599C?style=for-the-badge"></a>
+  </p>
 
-A energia elétrica produzida depende das características do motor, da velocidade de rotação e da carga conectada.
+  <h3>💻 Softwares de Simulação & Controle de Versão</h3>
+  <p>
+    <a href="#"><img alt="Proteus" src="https://img.shields.io/badge/Proteus%20Design%20Suite-004D73?style=for-the-badge"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+</details>
 
-## ⚙️ Componentes de Hardware
+<br/>
 
-| Componente | Quantidade | Função |
-|---|---|---|
-| Motor de micro-ondas | 1 | Geração de energia elétrica |
-| Manivela | 1 | Acionamento manual |
-| Lâmpada | 1 | Emissão de luz |
-| Estrutura impressa em 3D | 1 conjunto | Suporte e proteção |
-| Fios e conexões | Conforme montagem | Interligação elétrica |
+<!-- ==================== COMPONENTES ==================== -->
+<details open>
+  <summary><b>⚙️ Lista de Componentes</b></summary><br/>
 
-## 🛠️ Tecnologias e Ferramentas
+  | Item | Componente | Quantidade | Função no Projeto |
+  | :--: | :--------- | :--------: | :---------------- |
+  | 1 | Motor Síncrono de Prato de Micro-ondas | 1 | Gerador elétrico acionado manualmente via engrenagens internas |
+  | 2 | Ponte de Diodos Retificadora (ex: 4x 1N4007 ou MB6S) | 1 | Converte a tensão gerada de Corrente Alternada (AC) para Contínua (DC) |
+  | 3 | Capacitor Eletrolítico (ex: 100µF a 470µF / 25V) | 1 a 2 | Filtra e suaviza a tensão contínua, evitando oscilações no feixe de luz |
+  | 4 | Resistor Limitador de Corrente (ex: 100Ω a 330Ω) | 1 | Protege os diodos emissores de luz contra sobretensão |
+  | 5 | LEDs Brancos de Alto Brilho (5mm ou módulo COB) | 1 a 3 | Fonte emissora de iluminação frontal |
+  | 6 | Estrutura e Manivela Impressas em 3D | 1 kit | Carcaça ergonômica, suporte do motor e alavanca de rotação |
+  | 7 | Parafusos e Porcas M3 / M4 | 1 kit | Fixação mecânica do motor e fechamento da carcaça |
+</details>
 
-- Engenharia Elétrica e eletromagnetismo
-- Máquinas elétricas
-- Modelagem e impressão 3D
-- Montagem de circuitos elétricos
-- Prototipagem e fabricação digital
+<br/>
 
-## 🔌 Esquema Elétrico
+<!-- ==================== ESQUEMÁTICO PROTEUS ==================== -->
+<details open>
+  <summary><b>🔌 Esquema Elétrico & Funcionamento</b></summary><br/>
 
-*Adicionar o esquema real das conexões elétricas utilizadas no projeto.*
+  <p align="center">
+    <!-- Coloque a imagem do esquemático exportado do Proteus na pasta assets/ -->
+    <img src="./assets/esquematico_proteus.png" alt="Esquemático no Proteus" width="85%" onerror="this.src='https://via.placeholder.com/800x400/1F222E/F85D7F?text=Substitua+pela+imagem+do+Esquematico+do+Proteus'"/>
+  </p>
 
-## 📸 Fotos do Projeto
+  <h3>Fluxo de Energia do Circuito:</h3>
 
-*Adicionar fotos da montagem, da estrutura impressa em 3D e da lanterna funcionando.*
-
-## 👥 Integrantes do Projeto
-
-*Adicionar os integrantes, suas funções e seus perfis do GitHub.*
-
-## 🧪 Testes e Resultados
-
-O protótipo foi concluído para demonstrações didáticas. Os resultados de tensão, corrente e potência poderão ser documentados com as medições realizadas durante o funcionamento da lanterna.
+  ```text
+  [ Rotação Manual ] 
+         │
+         ▼
+  [ Manivela 3D + Engrenagens Internas ] ──> Multiplica a rotação do rotor com ímãs
+         │
+         ▼
+  [ Motor Síncrono (Gerador AC) ] ──────────> Tensão Alternada (induzida nas bobinas)
+         │
+         ▼
+  [ Ponte Retificadora de Diodos ] ─────────> Converte AC para Corrente Contínua (DC)
+         │
+         ▼
+  [ Capacitor de Filtro ] ──────────────────> Armazena carga e suaviza o riple
+         │
+         ▼
+  [ Resistor de Proteção + LEDs ] ──────────> Emissão de Luz Contínua e Estável
