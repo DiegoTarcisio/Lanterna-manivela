@@ -107,7 +107,7 @@
   <h3>📐 CAD, Modelagem & Fabricação 3D</h3>
   <p>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-E51000?style=for-the-badge&logo=autodesk&logoColor=white"></a>
-    <a href="#"><img alt="Solid Works" src="https://img.shields.io/badge/Fusion%20360-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
+    <a href="#"><img alt="Solid Works" src="https://img.shields.io/badge/SolidWorks-FF6F00?style=for-the-badge&logo=autodesk&logoColor=white"></a>
     <a href="#"><img alt="Impressão 3D" src="https://img.shields.io/badge/Impressão%203D-FDM%20(PLA%2FPETG)-00599C?style=for-the-badge"></a>
   </p>
 
