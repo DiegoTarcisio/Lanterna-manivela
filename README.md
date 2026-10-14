@@ -6,7 +6,7 @@
 <p align="center">
   <!-- Efeito de digitação dinâmico (Typing SVG) adaptado para Robótica -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Garra+Rob%C3%B3tica+Automatizada;Controle+de+Servomotores;Modelagem+3D+%26+Arduino;Projeto+de+Engenharia+%26+Automa%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=500&height=45&color=F85D7F&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Lanterna+Manivela;Controle+de+Servomotores;Modelagem+3D+%26+Arduino;Projeto+de+Engenharia+%26+Automa%C3%A7%C3%A3o&font=Fira%20Code&center=true&width=500&height=45&color=F85D7F&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
   </a>
 </p>
 
@@ -73,7 +73,7 @@
         <!-- ThainanST -->
         <a href="https://github.com/ThainanST">
           <img src="https://github.com/ThainanST.png" width="110px;" alt="Foto ThainanST" style="border-radius:50%;"/><br>
-          <sub><b>ThainanST</b></sub>
+          <sub><b>Thainan ST</b></sub>
         </a>
         <br/>
         <sub>🧠 Orientador</sub>
